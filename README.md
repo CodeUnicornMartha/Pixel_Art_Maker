@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Necessary Files](#NecessaryFiles)
 
 ## Instructions
 
